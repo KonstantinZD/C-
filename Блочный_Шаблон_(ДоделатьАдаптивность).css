@@ -1,0 +1,219 @@
+wrap {
+	font: 18px Times New Roman, Helvetica, Sans-serif;
+	margin: auto;
+	padding; auto;
+	background-color: green;
+}
+
+.Top-menu_Logo_Time_Contact {
+	
+}
+
+.logo_nsite {
+	margin: auto;
+	padding: auto;
+}
+
+.logo {
+	
+}
+.nsite {
+	margin: auto;
+	text-align: center;
+	padding: auto;
+}
+
+.menu_time_adress {
+	background-color: orange;
+	padding: auto;
+	display: block;
+	text-align: center;
+	margin: auto;	
+}
+.menu_navigation {
+	display: flex;	
+	text-align: auto;
+	margin-right: 20%;
+	margin-left: 20%;
+	padding: 10px;	
+}
+a {
+	text-align: center;
+	margin: auto; 
+}
+.nav {
+	background-color: orange;
+	padding:auto;
+	display: block;
+	text-align: center;
+	margin: auto;
+}
+.contacts_adress {
+	background-color: green;
+	margin: auto;
+	text-align: center;
+	padding: auto;
+}
+.contacts {
+	display: block;
+	margin: auto;
+	text-align: center;
+	padding: auto;
+}
+.tel_adress {
+	display: block;
+	margin: auto;
+	text-align: center;
+	padding: auto;
+}
+.name {
+}
+body {
+	margin: auto;
+	padding; auto;
+	text-align: center;
+	background-color: ;
+}
+.nav_title {
+	background-color: orange;
+}
+.nav_problem_title_price {
+	margin-top: 10px;
+	background-color: orange;
+	margin: auto;
+	padding; auto;
+}
+
+.class_problem {
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	padding; auto;
+	text-align: center;
+	display: flex;
+}
+.Menu_about {
+	display: flex;
+}
+.picture_text {
+	margin bottom: auto;
+	text-align: center;
+}
+.Menu_about {
+	margin-top: 10px;
+	background: Golden;
+    	text-align:center;
+  	color:blue;
+	margin: auto;
+}
+.main {
+  	text-align:center;
+  	margin: auto;
+	padding; auto;
+}
+.services_and_prices {
+	margin: auto;
+	padding; auto;
+	text-align: right;
+}
+.contakts {
+	margin: auto;
+	padding; auto;
+	text-align: center;
+}
+.Text {
+	margin: auto;
+	padding; auto;
+	text-align: center;
+}
+.image {
+}
+.Title_table {
+	background-color: magenta;
+	margin-right: 20%;
+	margin-left: 20%;
+	padding; auto;
+	text-align: center;
+}
+.Title_price {	
+	background-color: yellow;
+	margin: auto;
+	padding; auto;
+	text-align: center;
+}
+.Title_table {
+	margin-right: 20%;
+	margin-left: 20%;
+	padding; auto;
+	text-align: center;
+}
+.Title {
+	margin: auto;
+	padding; auto;
+	text-align: center;
+}
+.menu_price {
+	margin: auto;
+	padding; auto;
+}
+.section-title {
+	margin: auto;
+	padding; auto;
+	text-align: center;
+}
+.menu_price {
+	margin: auto;
+	padding; auto;
+}
+table {
+    	margin: auto; 
+}
+.table_style {
+	 	
+}
+tr {
+    	padding; auto;
+	margin: auto;
+	text-align: center;
+}
+td {
+	width; auto;
+	padding; auto;
+	margin: auto;	
+	text-align: left;
+}
+th {
+	width:auto;
+    	padding; auto;
+	margin: auto;	
+	text-align: center;	
+}
+.infoBox {
+	padding; auto;
+	margin: auto;	
+}
+footer {
+	width: auto;
+	margin: auto;
+	padding; auto;
+	text-align: center;
+	background-color: yellow;
+	
+}
+.container_row {
+}
+.row {
+	margin: auto;
+	padding; auto;
+	text-align: center;
+}
+.name_str {
+	margin: auto;
+	padding; auto;	
+	text-align: center;
+}
+.phone_text {
+	margin: auto;
+	padding; auto;
+	text-align: center;
+}
